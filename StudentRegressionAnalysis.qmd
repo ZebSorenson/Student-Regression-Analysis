@@ -1,6 +1,6 @@
 ---
-title: "Final Project"
-author: Zeb Sorenson and Tyler Barlow
+title: "Student Final Math Grade Regression Analysis"
+author: Zeb Sorenson
 output: pdf_document
 ---
 
